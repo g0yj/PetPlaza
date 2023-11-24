@@ -33,7 +33,7 @@
 
 ## 🔎 주요 기능
 
-#### 로그인
+#### 로그인 🔗[자세히](https://github.com/g0yj/PetPlaza/wiki/%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C%E2%80%90-%EB%A1%9C%EA%B7%B8%EC%9D%B8)
 - Spring Security 
 
 #### 회원관리
